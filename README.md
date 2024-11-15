@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-I'm Hannah, and I'm currently a doctoral researcher in Ecology & Evolutionary Biology at Rice University. My current research projects generally focus on the temporal community structure of species' phenologies (seasonal timing of life cycle events) 🌸🪺🍂❄️, diel activities ☀️🌙, and interactions (ex:🪻↔🐝 🦉↔🐭). Much of my interest in this area grew from the accumulation of everyday experiences noting how life percieves and responds to the passage of time and from my prior research experiences investigating the hormonal mechanisms regulating how organisms interpret temporal information in their environments. In my work, I employ a combination of field, lab, and computational approaches (which loosely draw from formal training in computer science). I am grateful that my research is supported by an NSF Graduate Research Fellowship.
+I'm Hannah, and I'm currently a doctoral researcher in Ecology & Evolutionary Biology at Rice University. My current research projects generally focus on the temporal community structure of species' phenologies (seasonal timing of life cycle events) 🌸🪺🍂❄️, diel activities ☀️🌙, and interactions (ex:🪻↔🐝 🦉↔🐭). 
+
+Much of my interest in this area grew from the accumulation of everyday experiences noting how life percieves and responds to the passage of time and from my prior research experiences investigating the hormonal mechanisms regulating how organisms interpret temporal information in their environments. In my work, I employ a combination of field, lab, and computational approaches (which loosely draw from formal training in computer science). I am grateful that my research is supported by an NSF Graduate Research Fellowship.
+
 
 Other potential items of interest:
 - 👯 I’m open to collaborate on designing a meaningful internship experience for Fall 2025. The internship experience is expected to have a research component to it, and the internship stipend would come from my fellowship, NOT from the organization hosting the internship. Being able to get some more exposure to software development/AI would be a plus.
