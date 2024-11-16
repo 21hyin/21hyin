@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Hannah, and I'm currently a doctoral researcher in Ecology & Evolutionary Biology at Rice University. My current research projects generally focus on the temporal community structure of species' phenologies 🌸🪺🍂 (seasonal timing of life cycle events), diel activities ☀️🌙, and interactions (ex:🪻↔🐝 🦉↔🐭), with thematic links to how communities shift under climate change and human disturbance. 
+I'm Hannah, and I'm a doctoral researcher in Ecology & Evolutionary Biology at Rice University. My current research projects generally focus on the temporal community structure of species' phenologies 🌸🪺🍂 (seasonal timing of life cycle events), diel activities ☀️🌙, and interactions (ex:🪻↔🐝 🦉↔🐭), with thematic links to how communities shift under climate change and human disturbance. 
 
 Much of my interest in this focus area grew from the *accumulation of everyday experiences* noting how life percieves and responds to the passage of time, as well as from my prior research experiences investigating hormonal mechanisms regulating how organisms interpret temporal information in their environments. In my work, I employ a combination of (some) field and (mostly) **wet lab + computational approaches** that loosely draw from formal training in computer science. I am extremely grateful that my research is supported by an NSF Graduate Research Fellowship--my research journey quite literally would not have been possible without it and without the support of my mentors (you know who you are).
 
