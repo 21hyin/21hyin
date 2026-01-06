@@ -15,4 +15,4 @@ Much of my interest in this focus area grew from the accumulation of outdoor exp
 - 💬 Ask me about navigating the messy biodiversity and ecological data ecosystem
 <br/><br/>
 
-📫 I can be reached at hannah \[dot\] yin \[at\] rice \[dot\] edu.
+📫 I can be reached at hannah \[dot\] yin \[at\] rice \[dot\] edu (at least before I graduate).
