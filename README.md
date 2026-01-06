@@ -11,7 +11,7 @@ Much of my interest in this focus area grew from the accumulation of outdoor exp
 - 🔎 PhD-level expertise on the shifts in seasonal and daily ecological activity as a basis for tracking (and potentially mitigating) consequences of climate change and human disturbance on biodiversity
 - 📉 Ecological network analysis, survival analysis, ordination techniques, hyperparameter selection, cross-validation, linear/nonlinear regression in hypothesis testing, compartmental epidemiological models
 - 👯 Hands-on expertise in institutional knowledge to create and advise on sustainability initiatives involving students and staff leadership
-- 🌱 Dabbled in via 2-4 month long projects: bioacoustics monitoring equipment (intern at [Wildlife Acoustics](https://www.wildlifeacoustics.com/)), genome assembly and analysis tools (data science capstone project), hydrogen as an alternative clean energy source for transportation (intern at Shell)
+- 🌱 Dabbled in via 2-4 month long projects: bioacoustics monitoring equipment (intern at [Wildlife Acoustics](https://www.wildlifeacoustics.com/)), genome assembly and analysis tools (data science capstone project), hydrogen as an alternative energy source for transportation (intern at Shell)
 - 💬 Ask me about navigating the messy biodiversity and ecological data ecosystem
 <br/><br/>
 
