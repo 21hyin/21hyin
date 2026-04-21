@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Hannah, a doctoral researcher in Ecology & Evolutionary Biology (EEB) at Rice University with plans to graduate in May 2026 at the earliest. My research addresses the ecological roles and implications of seasonality (ex: phenologies 🌸🪺🍂) and day-night cycles (ex: diel activities 💤🦇) under environmental change.
+I'm Hannah, a doctoral researcher in Ecology & Evolutionary Biology (EEB) at Rice University graduating in August 2026. My research addresses the ecological roles and implications of seasonality (ex: phenologies 🌸🪺🍂) and day-night cycles (ex: diel activities 💤🦇) under environmental change.
 
 Much of my interest in this focus area grew from the accumulation of outdoor experiences noticing how life percieves and responds to the passage of time, as well as from my prior research experiences investigating hormone mechanisms regulating how organisms interpret temporal information in their environments. My work generally involves **wet lab + computational approaches** that loosely draw from undergraduate training in computer science. I am extremely grateful that my research is supported by an NSF Graduate Research Fellowship--my research journey quite literally would not have been possible without it and without the support of my mentors (you know who you are).
 <br/><br/>
