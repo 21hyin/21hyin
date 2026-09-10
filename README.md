@@ -1,19 +1,15 @@
 ## Hi there 👋
 
-I'm Hannah, a doctoral researcher in Ecology & Evolutionary Biology (EEB) at Rice University graduating in August 2026. My research addresses the ecological roles and implications of seasonality (ex: phenologies 🌸🪺🍂) and day-night cycles (ex: diel activities 💤🦇) under environmental change.
+I'm Hannah, a researcher interested in the ecological roles and practical implications of seasonality (ex: phenology 🌸🪺🍂) and day-night cycles (ex: diel activity 💤🦇) under environmental change, to address challenges in moving toward a more sustainable future. My work in this area has involved a combination of **field data analyses**, **wet lab experiments**, and **custom-built computer simulations**.
 
-Much of my interest in this focus area grew from the accumulation of outdoor experiences noticing how life percieves and responds to the passage of time, as well as from my prior research experiences investigating hormone mechanisms regulating how organisms interpret temporal information in their environments. My work generally involves **wet lab + computational approaches** that loosely draw from undergraduate training in computer science. I am extremely grateful that my research is supported by an NSF Graduate Research Fellowship--my research journey quite literally would not have been possible without it and without the support of my mentors (you know who you are).
+Much of my interests grew from the accumulation of outdoor experiences noticing how life perceives and responds to the passage of time. These interests also draw from my prior research experience in the hormone and metabolic mechanisms that underlie how organisms interpret temporal information in their environments. I am extremely grateful for my mentors (you know who you are) and that my research has been supported by an NSF Graduate Research Fellowship--my research journey would not have been possible otherwise.
+
+Currently, I am based at the University of Notre Dame, where I am exploring how thermal shifts in seasonality and day-night cycles create joint challenges and actionable opportunities for biodiversity management and environmental justice under climate change. Part of this research will draw from my time dedicated to a data-driven synthesis working group funded by the [Just Transformations to Sustainability initiative](https://sustainabilityinitiative.nd.edu/research/programs/integrated-responses-to-climate-and-biodiversity-change/) at Notre Dame in partnership with the University of Michigan's Institute for Global Change Biology.
 <br/><br/>
+✨ <ins>Other skills & knowledge to share</ins>
 
-✨ <ins>Skillset to share</ins>
-
-- 💡 Ability to translate mechanistic, scientific concepts in biodiversity functioning, from individual physiology to ecosystem level, into quantitative models applicable to conservation decision-making
-- 🔎 PhD-level expertise on the shifts in seasonal and daily ecological activity as a basis for tracking (and potentially mitigating) consequences of climate change and human disturbance on biodiversity
-- 📉 Ecological network analysis, survival analysis, ordination techniques, hyperparameter selection, cross-validation, linear/nonlinear regression in hypothesis testing, compartmental epidemiological models
 - 👯 Best practices in creating and advising on sustainability initiatives involving students and staff leadership at universities
 - 🔧 Establishing low-stakes settings to fail early for long-term success
-- 🌱 Dabbled in via 2-4 month long projects: bioacoustics monitoring equipment (intern at [Wildlife Acoustics](https://www.wildlifeacoustics.com/)), genome assembly and analysis tools (data science capstone project), hydrogen as an alternative energy source for transportation (intern at Shell)
-- 💬 Ask me about navigating the messy biodiversity and ecological data ecosystem
-<br/><br/>
+- 🌱 Acquired from 2-4 month long projects: bioacoustics monitoring equipment (intern at [Wildlife Acoustics](https://www.wildlifeacoustics.com/)), genome assembly and analysis tools (data science capstone project), hydrogen as an alternative energy source for transportation (intern at Shell)
 
-📫 I can be reached at hannah \[dot\] yin \[at\] rice \[dot\] edu (at least before I graduate).
+📫 At Notre Dame, I can be reached at hyin2 \[at\] nd \[dot\] edu.
