@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Hannah, a researcher interested in supporting a more sustainable future, by investigating how organisms position themselves in time relative to each other over seasonal (ex: phenology 🌸🪺🍂) and daily (ex: diel activity 💤🦇) timescales. My work in this area has involved a combination of **field data analyses**, **wet lab experiments**, and **custom-built computer simulations**.
+I'm Hannah, a researcher looking to inform solutions toward a more sustainable future, by investigating how organisms position themselves in time relative to each other over seasonal (ex: phenology 🌸🪺🍂) and daily (ex: diel activity 💤🦇) timescales. My work in this area has involved a combination of **field data analyses**, **wet lab experiments**, and **custom-built computer simulations**.
 
 Much of my interests grew from the accumulation of outdoor experiences noticing how life perceives and responds to the passage of time. These interests also draw from my prior research experience in hormone and metabolic mechanisms that underlie how organisms interpret temporal information in their environments. I am extremely grateful for my mentors (you know who you are) and that my research has been supported by an NSF Graduate Research Fellowship--my research journey would not have been possible otherwise.
 
